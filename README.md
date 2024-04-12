@@ -17,6 +17,7 @@ DroneVoiceControl is a groundbreaking project that introduces voice recognition 
 ### Prerequisites
 
  Python 3.x
+ 
  VOSK Python library (installation instructions provided in the project's documentation)
 
 ### Installation
